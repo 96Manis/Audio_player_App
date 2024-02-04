@@ -1,7 +1,7 @@
 Audio_player_App
 This is a simple React application for playing audio files with file upload functionality and a playlist.
 
-Features
+## Features
 File Upload: Users can upload audio files (e.g., mp3).
 Playlist: Display a list of uploaded audio files.
 Now Playing View: Show information about the currently playing audio file.
